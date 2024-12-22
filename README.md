@@ -19,11 +19,9 @@
 ![Static Badge](https://img.shields.io/badge/Git-gray?style=plastic&logo=git&logoColor=%23F05032&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/pandas-gray?style=plastic&logo=pandas&logoColor=%23150458&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/Tableau-gray?style=plastic&logo=tableau&logoColor=%23E97627&labelColor=black)
-
 ![Static Badge](https://img.shields.io/badge/Excel-gray?style=plastic)
 ![Static Badge](https://img.shields.io/badge/Matplotlib-gray?style=plastic)
 ![Static Badge](https://img.shields.io/badge/Numpy-gray?style=plastic&logo=numpy&logoColor=%23013243&labelColor=black)
-![Static Badge](https://img.shields.io/badge/numpy-gray?style=plastic&logo=numpy&logoColor=%23013243&labelColor=black)
 
 ### Notable Achievments 
 <ol> 
