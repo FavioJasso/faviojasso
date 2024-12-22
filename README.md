@@ -24,10 +24,8 @@
 ![Static Badge](https://img.shields.io/badge/Numpy-gray?style=plastic&logo=numpy&logoColor=%23013243&labelColor=black)
 
 ### Notable Achievments 
-<ol> 
-National Statistics & Data Science winner at American Statistical Association Data Fest 2024
 
-</ol>
+- National Statistics & Data Science winner at American Statistical Association Data Fest 2024
 
 <!--
 **FavioJasso/faviojasso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
