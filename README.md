@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[!][](Favio JASSO (1280 x 200 px).gif)
+[!][]([Favio JASSO (1280 x 200 px).gif](https://github.com/FavioJasso/faviojasso/blob/main/Favio%20JASSO%20(1280%20x%20200%20px).gif))
 
 ### Languages
 
