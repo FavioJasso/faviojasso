@@ -25,7 +25,7 @@
 
 ### Notable Achievments 
 
-- National Statistics & Data Science winner at American Statistical Association Data Fest 2024
+- National Statistics & Data Science winner at[American Statistical Association Data Fest 2024]([url](https://morrisfocus.com/2024/05/13/dover-student-favio-jasso-and-ccm-data-titans-triumph-at-national-datafest/))
 
 <!--
 **FavioJasso/faviojasso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
