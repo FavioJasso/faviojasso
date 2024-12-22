@@ -1,6 +1,6 @@
 [![](https://github.com/FavioJasso/faviojasso/blob/357502c2a70689ce7f71f5f2a807f5658a7bdc52/Favio%20JASSO%20(1280%20x%20200%20px).gif)](https://www.faviojasso.com/)
 ### What Am I Up To? 
-Currently I work as a Data Associate at Transparent Energy & Purusing my undergraduate studies at the County College of Morris 
+Currently I work as a Associate Data Analyst at Transparent Energy & Purusing my undergraduate studies at the County College of Morris 
 
 ### Languages
 
