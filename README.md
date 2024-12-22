@@ -8,7 +8,7 @@
 ![Static Badge](https://img.shields.io/badge/JavaScript-gray?style=plastic&logo=javascript&logoColor=%23F7DF1E&labelColor=black)
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
-[![R](https://img.shields.io/badge/-script-276DC3.svg?style=flat&logo=R)](https://cran.r-project.org)
+![Static Badge](https://img.shields.io/badge/R-gray?style=plastic&logo=r&logoColor=%23276DC3&labelColor=black)
 ![GO](https://img.shields.io/badge/Go-gray?style=plastic&logo=go&logoColor=%2300ADD8&labelColor=black)
 
 ### Technologies
@@ -17,7 +17,6 @@
 ![Static Badge](https://img.shields.io/badge/MySQL-gray?style=plastic&logo=mysql&logoColor=%234479A1&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/DBeaver-gray?style=plastic&logo=dbeaver&logoColor=%23382923&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/Git-gray?style=plastic&logo=git&logoColor=%23F05032&labelColor=black)
-![Static Badge](https://img.shields.io/badge/R-gray?style=plastic&logo=r&logoColor=%23276DC3&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/pandas-gray?style=plastic&logo=pandas&logoColor=%23150458&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/Tableau-gray?style=plastic&logo=tableau&logoColor=%23E97627&labelColor=black)
 <!--
