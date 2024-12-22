@@ -2,7 +2,7 @@
 
 ### Languages
 
-![Python](https://img.shields.io/badge/python-gray?style=plastic&logo=python&logoColor=3776AB&labelColor=black))
+![Python](https://img.shields.io/badge/python-gray?style=plastic&logo=python&logoColor=3776AB&labelColor=black)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
