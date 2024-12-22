@@ -7,7 +7,7 @@
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 [![R](https://img.shields.io/badge/-script-276DC3.svg?style=flat&logo=R)](https://cran.r-project.org)
-![GO](https://img.shields.io/badge/Go-gray?style=plastic&logo=go&logoColor=%2300ADD8&labelColor=black))
+![GO](https://img.shields.io/badge/Go-gray?style=plastic&logo=go&logoColor=%2300ADD8&labelColor=black)
 
 ### Technologies
 
