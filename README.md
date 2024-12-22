@@ -5,7 +5,7 @@
 ![Python](https://img.shields.io/badge/python-gray?style=plastic&logo=python&logoColor=3776AB&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/HTML5-gray?style=plastic&logo=html5&logoColor=%23E34F26&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/CSS3-gray?style=plastic&logo=css3&logoColor=%231572B6&labelColor=black)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![Static Badge](https://img.shields.io/badge/JavaScript-gray?style=plastic&logo=javascript&logoColor=%23F7DF1E&labelColor=black)
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 [![R](https://img.shields.io/badge/-script-276DC3.svg?style=flat&logo=R)](https://cran.r-project.org)
@@ -13,8 +13,7 @@
 
 ### Technologies
 
-![Static Badge](https://img.shields.io/badge/HTML5-gray?style=plastic&logo=html5&logoColor=%23E34F26&labelColor=black)
-![Static Badge](https://img.shields.io/badge/CSS3-gray?style=plastic&logo=css3&logoColor=%231572B6&labelColor=black)
+
 ![Static Badge](https://img.shields.io/badge/JavaScript-gray?style=plastic&logo=javascript&logoColor=%23F7DF1E&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/Bootstrap-gray?style=plastic&logo=bootstrap&logoColor=%237952B3&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/MySQL-gray?style=plastic&logo=mysql&logoColor=%234479A1&labelColor=black)
