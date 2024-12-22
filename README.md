@@ -6,7 +6,7 @@
 ![Static Badge](https://img.shields.io/badge/HTML5-gray?style=plastic&logo=html5&logoColor=%23E34F26&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/CSS3-gray?style=plastic&logo=css3&logoColor=%231572B6&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/JavaScript-gray?style=plastic&logo=javascript&logoColor=%23F7DF1E&labelColor=black)
-![Java](https://img.shields.io/badge/Java-gray?style=plastic))
+![Java](https://img.shields.io/badge/Java-gray?style=plastic)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 ![Static Badge](https://img.shields.io/badge/R-gray?style=plastic&logo=r&logoColor=%23276DC3&labelColor=black)
 ![GO](https://img.shields.io/badge/Go-gray?style=plastic&logo=go&logoColor=%2300ADD8&labelColor=black)
