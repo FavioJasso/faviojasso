@@ -2,7 +2,7 @@
 
 ### Languages
 
-![Python](https://img.shields.io/badge/python-gray?style=plastic&logo=python&logoColor=3776AB&labelColor=black)
+![Python](https://img.shields.io/badge/Python-gray?style=plastic&logo=python&logoColor=3776AB&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/HTML5-gray?style=plastic&logo=html5&logoColor=%23E34F26&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/CSS3-gray?style=plastic&logo=css3&logoColor=%231572B6&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/JavaScript-gray?style=plastic&logo=javascript&logoColor=%23F7DF1E&labelColor=black)
