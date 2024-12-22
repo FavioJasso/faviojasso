@@ -3,6 +3,8 @@
 ### Languages
 
 ![Python](https://img.shields.io/badge/python-gray?style=plastic&logo=python&logoColor=3776AB&labelColor=black)
+![Static Badge](https://img.shields.io/badge/HTML5-gray?style=plastic&logo=html5&logoColor=%23E34F26&labelColor=black)
+![Static Badge](https://img.shields.io/badge/CSS3-gray?style=plastic&logo=css3&logoColor=%231572B6&labelColor=black)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
