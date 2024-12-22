@@ -11,15 +11,18 @@
 
 ### Technologies
 
-![Tableau](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
-![MySQL](https://img.shields.io/badge/-Docker-000?&logo=Docker)
-![DBeaver](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
-![Pandas](https://img.shields.io/badge/-Linux-000?&logo=Linux)
-![NumPy](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
-![MatPlotLib](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch)
-![GGPlot2](https://img.shields.io/badge/-React-000?&logo=React)
-![BootStrap](https://img.shields.io/badge/-Redis-000?&logo=Redis)
-
+![Static Badge](https://img.shields.io/badge/Go-gray?style=plastic&logo=go&logoColor=%2300ADD8&labelColor=black)
+![Static Badge](https://img.shields.io/badge/Python-gray?style=plastic&logo=python&logoColor=%233776AB&labelColor=black)
+![Static Badge](https://img.shields.io/badge/HTML5-gray?style=plastic&logo=html5&logoColor=%23E34F26&labelColor=black)
+![Static Badge](https://img.shields.io/badge/CSS3-gray?style=plastic&logo=css3&logoColor=%231572B6&labelColor=black)
+![Static Badge](https://img.shields.io/badge/JavaScript-gray?style=plastic&logo=javascript&logoColor=%23F7DF1E&labelColor=black)
+![Static Badge](https://img.shields.io/badge/Bootstrap-gray?style=plastic&logo=bootstrap&logoColor=%237952B3&labelColor=black)
+![Static Badge](https://img.shields.io/badge/MySQL-gray?style=plastic&logo=mysql&logoColor=%234479A1&labelColor=black)
+![Static Badge](https://img.shields.io/badge/DBeaver-gray?style=plastic&logo=dbeaver&logoColor=%23382923&labelColor=black)
+![Static Badge](https://img.shields.io/badge/Git-gray?style=plastic&logo=git&logoColor=%23F05032&labelColor=black)
+![Static Badge](https://img.shields.io/badge/R-gray?style=plastic&logo=r&logoColor=%23276DC3&labelColor=black)
+![Static Badge](https://img.shields.io/badge/pandas-gray?style=plastic&logo=pandas&logoColor=%23150458&labelColor=black)
+![Static Badge](https://img.shields.io/badge/Tableau-gray?style=plastic&logo=tableau&logoColor=%23E97627&labelColor=black)
 <!--
 **FavioJasso/faviojasso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
