@@ -13,8 +13,6 @@
 
 ### Technologies
 
-
-![Static Badge](https://img.shields.io/badge/JavaScript-gray?style=plastic&logo=javascript&logoColor=%23F7DF1E&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/Bootstrap-gray?style=plastic&logo=bootstrap&logoColor=%237952B3&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/MySQL-gray?style=plastic&logo=mysql&logoColor=%234479A1&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/DBeaver-gray?style=plastic&logo=dbeaver&logoColor=%23382923&labelColor=black)
