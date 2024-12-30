@@ -27,4 +27,4 @@
 
 - National Statistics & Data Science winner at [American Statistical Association Data Fest 2024](https://morrisfocus.com/2024/05/13/dover-student-favio-jasso-and-ccm-data-titans-triumph-at-national-datafest/)
 - Ambassador to the [New Jersey Big Data Alliance ](https://njbda.org/)
-- County College of Morris Dean's List Fall 2023, Fall 2024
+- County College of Morris Dean's List Fall 2023 & Fall 2024
