@@ -23,7 +23,7 @@
 ![Static Badge](https://img.shields.io/badge/Matplotlib-gray?style=plastic)
 ![Static Badge](https://img.shields.io/badge/Numpy-gray?style=plastic&logo=numpy&logoColor=%23013243&labelColor=black)
 
-### Notable Achievments 
+### Notable Achievements 
 
 - National Statistics & Data Science winner at [American Statistical Association Data Fest 2024](https://morrisfocus.com/2024/05/13/dover-student-favio-jasso-and-ccm-data-titans-triumph-at-national-datafest/)
 - Ambassador to the [New Jersey Big Data Alliance ](https://njbda.org/)
