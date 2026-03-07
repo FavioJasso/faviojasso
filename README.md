@@ -29,4 +29,4 @@
 - Ambassador to the [New Jersey Big Data Alliance ](https://njbda.org/)
 - County College of Morris Dean's List Fall 2023, Fall 2024, Spring 2025 & Cum Laude Graduation Honors
 - Santander Scholar 2026 for The New Jersey Institute of Technology
-- Kean Business Model Competition 2026 Semi-Finalist (in progress)
+- [Kean Business Model Competition 2026 Semi-Finalist](https://www.kean.edu/kean-university-business-plan-competition) (in progress)
