@@ -84,5 +84,5 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=FavioJasso&label=Profile%20Views&color=0e75b6&style=flat&abbreviated=true" alt="FavioJasso" />
+  <img src="https://komarev.com/ghpvc/?username=FavioJasso&label=Profile%20Views&color=0e75b6&style=for-the-badge&abbreviated=true" alt="FavioJasso" />
 </p>
