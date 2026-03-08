@@ -11,7 +11,7 @@
   <a href="https://www.faviojasso.com/">
     <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/">
+  <a href="[https://www.linkedin.com/](https://www.linkedin.com/in/faviojasso/)">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/FavioJasso">
